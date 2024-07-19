@@ -1,6 +1,7 @@
 Penetration Testing Journey
 
 Week 1
+
 Day 1: Basics of Penetration Testing 🛡️
 Learned about the fundamentals of penetration testing: Understanding what penetration testing (pen testing) is, its objectives, and the different types of pen testing (black-box, white-box, and gray-box).
 Phases of a pen test: Planning, reconnaissance, scanning, exploitation, and reporting.
